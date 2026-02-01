@@ -4,8 +4,6 @@
 This project is a beginner-level Power BI dashboard built using the **Global Superstore Dataset**.  
 The goal is to analyze sales and profit performance and present key business insights through interactive visualizations.
 
-This dashboard is created as part of **Task 7: Power BI / Tableau Mini Dashboard**.
-
 ---
 
 ## 🛠 Tools & Technologies
